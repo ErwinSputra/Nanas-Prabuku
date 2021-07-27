@@ -1,0 +1,192 @@
+html {
+	scroll-behavior: smooth;
+  }
+
+@media screen and (max-width: 700px) {
+
+	h3{
+		font-size: larger;
+	}
+
+	h4{
+		font-size: larger;
+	}
+	
+}
+
+@media screen and (max-width: 575px) {
+	h2{
+		font-size:larger;
+	}
+
+	.size{
+		height: 90px;
+		width: 90px;
+	}
+
+}
+
+
+.warna{
+	color: black;
+}
+
+
+
+
+div.parent {
+	text-align: left;
+	}
+
+
+
+ul { 
+	display: inline-block; 
+	text-align: left; 
+	}
+
+
+body {
+	margin: 0;
+	color: black;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+	/* font-family: "Montserrat"; */
+}
+
+.hahaha{
+	font-family: "Montserrat", sans-serif;  
+	font-weight: 700;
+	color: white;
+	background-color: #3e3e3e;
+}
+
+h4{
+	margin-bottom: 0;
+}
+
+img{
+	width: 100%;
+	height: auto;
+}
+
+.berita{
+	background-color: white;
+	box-shadow: 5px 10px;
+}
+  
+p{
+	color: black;
+	font-size: small;
+}
+
+li{
+	color: black;
+}
+
+span{
+	font-size:x-small;
+}
+
+.mr-2:hover{
+	background-color:darkgrey;
+}
+
+.desc{
+	margin: 10px 0;
+}
+.first{
+	background-color: rgba(255, 248, 220, 0.596);
+}
+
+.center{
+	background-color: rgba(247, 236, 193, 0.603);
+}
+
+.social-media li{
+	display: inline;
+}
+
+.social-media{
+	padding-left: 0;
+}
+
+.skill-row{
+    margin: 20px 20px;
+    text-align: left;
+}
+
+.side-post{
+    text-align: left;
+}
+
+.code-img{
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+	height: 150px;
+}
+
+.side-img{
+    width: 30%;
+    float: left;
+	margin-right: 5px;
+	height: 150px;
+}
+
+.parallax {
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.transparant{
+	width: 90%;
+	background-color: rgba(255, 255, 255, 0.548);
+	padding: 0;
+}
+
+.header{
+	height: 50px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header .header-logo {
+    float: left;
+    display: inline;
+    margin-left: 12px;
+}
+
+
+.container-fluid {
+	background-color: #f5f5f598;
+	/*border-radius: 100%;*/
+	
+}
+
+li:hover{
+	background-color: darkgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
